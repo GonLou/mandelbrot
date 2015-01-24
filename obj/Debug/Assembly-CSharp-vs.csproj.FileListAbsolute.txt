@@ -1,0 +1,23 @@
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Eleni\Documents\mandelbrot\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Eleni\Documents\mandelbrot\obj\Debug\Assembly-CSharp.dll
+C:\Users\Eleni\Documents\mandelbrot\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Eleni\Documents\mandelbrot\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\obj\Debug\Assembly-CSharp.dll
+C:\Users\Eleni\Documents\elena game computer\mandlebort\mandelbrot\obj\Debug\Assembly-CSharp.pdb
